@@ -1,0 +1,761 @@
+"Week","Team","Points","Home","Cumulative"
+1,"Arsenal",3,"Home",3
+1,"Crystal Palace",0,"Away",0
+1,"Leicester",1,"Home",1
+1,"Everton",1,"Away",1
+1,"Manchester United",0,"Home",0
+1,"Swansea",3,"Away",3
+1,"QPR",0,"Home",0
+1,"Hull",3,"Away",3
+1,"Stoke",0,"Home",0
+1,"Aston Villa",3,"Away",3
+1,"West Bromwich",1,"Home",1
+1,"Sunderland",1,"Away",1
+1,"West Ham",0,"Home",0
+1,"Tottenham",3,"Away",3
+1,"Liverpool",3,"Home",3
+1,"Southampton",0,"Away",0
+1,"Newcastle",0,"Home",0
+1,"Manchester City",3,"Away",3
+1,"Burnley",0,"Home",0
+1,"Chelsea",3,"Away",3
+2,"Aston Villa",1,"Home",4
+2,"Newcastle",1,"Away",1
+2,"Chelsea",3,"Home",6
+2,"Leicester",0,"Away",1
+2,"Crystal Palace",0,"Home",0
+2,"West Ham",3,"Away",3
+2,"Everton",1,"Home",2
+2,"Arsenal",1,"Away",4
+2,"Southampton",1,"Home",1
+2,"West Bromwich",1,"Away",2
+2,"Swansea",3,"Home",6
+2,"Burnley",0,"Away",0
+2,"Hull",1,"Home",4
+2,"Stoke",1,"Away",1
+2,"Sunderland",1,"Home",2
+2,"Manchester United",1,"Away",1
+2,"Tottenham",3,"Home",6
+2,"QPR",0,"Away",0
+2,"Manchester City",3,"Home",6
+2,"Liverpool",0,"Away",3
+3,"Burnley",1,"Home",1
+3,"Manchester United",1,"Away",2
+3,"Everton",0,"Home",2
+3,"Chelsea",3,"Away",9
+3,"Manchester City",0,"Home",6
+3,"Stoke",3,"Away",4
+3,"Newcastle",1,"Home",2
+3,"Crystal Palace",1,"Away",1
+3,"QPR",3,"Home",3
+3,"Sunderland",0,"Away",2
+3,"Swansea",3,"Home",9
+3,"West Bromwich",0,"Away",2
+3,"West Ham",0,"Home",3
+3,"Southampton",3,"Away",4
+3,"Aston Villa",3,"Home",7
+3,"Hull",0,"Away",4
+3,"Leicester",1,"Home",2
+3,"Arsenal",1,"Away",5
+3,"Tottenham",0,"Home",6
+3,"Liverpool",3,"Away",6
+4,"Arsenal",1,"Home",6
+4,"Manchester City",1,"Away",7
+4,"Chelsea",3,"Home",12
+4,"Swansea",0,"Away",9
+4,"Crystal Palace",1,"Home",2
+4,"Burnley",1,"Away",2
+4,"Liverpool",0,"Home",6
+4,"Aston Villa",3,"Away",10
+4,"Southampton",3,"Home",7
+4,"Newcastle",0,"Away",2
+4,"Stoke",0,"Home",4
+4,"Leicester",3,"Away",5
+4,"Sunderland",1,"Home",3
+4,"Tottenham",1,"Away",7
+4,"West Bromwich",0,"Home",2
+4,"Everton",3,"Away",5
+4,"Manchester United",3,"Home",5
+4,"QPR",0,"Away",3
+4,"Hull",1,"Home",5
+4,"West Ham",1,"Away",4
+5,"Aston Villa",0,"Home",10
+5,"Arsenal",3,"Away",9
+5,"Burnley",1,"Home",3
+5,"Sunderland",1,"Away",4
+5,"Newcastle",1,"Home",3
+5,"Hull",1,"Away",6
+5,"QPR",1,"Home",4
+5,"Stoke",1,"Away",5
+5,"Swansea",0,"Home",9
+5,"Southampton",3,"Away",10
+5,"West Ham",3,"Home",7
+5,"Liverpool",0,"Away",6
+5,"Everton",0,"Home",5
+5,"Crystal Palace",3,"Away",5
+5,"Leicester",3,"Home",8
+5,"Manchester United",0,"Away",5
+5,"Manchester City",1,"Home",8
+5,"Chelsea",1,"Away",13
+5,"Tottenham",0,"Home",7
+5,"West Bromwich",3,"Away",5
+6,"Arsenal",1,"Home",10
+6,"Tottenham",1,"Away",8
+6,"Chelsea",3,"Home",16
+6,"Aston Villa",0,"Away",10
+6,"Crystal Palace",3,"Home",8
+6,"Leicester",0,"Away",8
+6,"Hull",0,"Home",6
+6,"Manchester City",3,"Away",11
+6,"Liverpool",1,"Home",7
+6,"Everton",1,"Away",6
+6,"Manchester United",3,"Home",8
+6,"West Ham",0,"Away",7
+6,"Southampton",3,"Home",13
+6,"QPR",0,"Away",4
+6,"Sunderland",1,"Home",5
+6,"Swansea",1,"Away",10
+6,"West Bromwich",3,"Home",8
+6,"Burnley",0,"Away",3
+6,"Stoke",3,"Home",8
+6,"Newcastle",0,"Away",3
+7,"Aston Villa",0,"Home",10
+7,"Manchester City",3,"Away",14
+7,"Hull",3,"Home",9
+7,"Crystal Palace",0,"Away",8
+7,"Leicester",1,"Home",9
+7,"Burnley",1,"Away",4
+7,"Liverpool",3,"Home",10
+7,"West Bromwich",0,"Away",8
+7,"Sunderland",3,"Home",8
+7,"Stoke",0,"Away",8
+7,"Swansea",1,"Home",11
+7,"Newcastle",1,"Away",4
+7,"Chelsea",3,"Home",19
+7,"Arsenal",0,"Away",10
+7,"Manchester United",3,"Home",11
+7,"Everton",0,"Away",6
+7,"Tottenham",3,"Home",11
+7,"Southampton",0,"Away",13
+7,"West Ham",3,"Home",10
+7,"QPR",0,"Away",4
+8,"Arsenal",1,"Home",11
+8,"Hull",1,"Away",10
+8,"Burnley",0,"Home",4
+8,"West Ham",3,"Away",13
+8,"Crystal Palace",0,"Home",8
+8,"Chelsea",3,"Away",22
+8,"Everton",3,"Home",9
+8,"Aston Villa",0,"Away",10
+8,"Manchester City",3,"Home",17
+8,"Tottenham",0,"Away",11
+8,"Newcastle",3,"Home",7
+8,"Leicester",0,"Away",9
+8,"Southampton",3,"Home",16
+8,"Sunderland",0,"Away",8
+8,"QPR",0,"Home",4
+8,"Liverpool",3,"Away",13
+8,"Stoke",3,"Home",11
+8,"Swansea",0,"Away",11
+8,"West Bromwich",1,"Home",9
+8,"Manchester United",1,"Away",12
+9,"West Ham",3,"Home",16
+9,"Manchester City",0,"Away",17
+9,"Liverpool",1,"Home",14
+9,"Hull",1,"Away",11
+9,"Southampton",3,"Home",19
+9,"Stoke",0,"Away",11
+9,"Sunderland",0,"Home",8
+9,"Arsenal",3,"Away",14
+9,"West Bromwich",1,"Home",10
+9,"Crystal Palace",1,"Away",9
+9,"Swansea",3,"Home",14
+9,"Leicester",0,"Away",9
+9,"Burnley",0,"Home",4
+9,"Everton",3,"Away",12
+9,"Tottenham",0,"Home",11
+9,"Newcastle",3,"Away",10
+9,"Manchester United",1,"Home",13
+9,"Chelsea",1,"Away",23
+9,"QPR",3,"Home",7
+9,"Aston Villa",0,"Away",10
+10,"Newcastle",3,"Home",13
+10,"Liverpool",0,"Away",14
+10,"Arsenal",3,"Home",17
+10,"Burnley",0,"Away",4
+10,"Chelsea",3,"Home",26
+10,"QPR",0,"Away",7
+10,"Everton",1,"Home",13
+10,"Swansea",1,"Away",15
+10,"Hull",0,"Home",11
+10,"Southampton",3,"Away",22
+10,"Leicester",0,"Home",9
+10,"West Bromwich",3,"Away",13
+10,"Stoke",1,"Home",12
+10,"West Ham",1,"Away",17
+10,"Manchester City",3,"Home",20
+10,"Manchester United",0,"Away",13
+10,"Aston Villa",0,"Home",10
+10,"Tottenham",3,"Away",14
+10,"Crystal Palace",0,"Home",9
+10,"Sunderland",3,"Away",11
+11,"Liverpool",0,"Home",14
+11,"Chelsea",3,"Away",29
+11,"Burnley",3,"Home",7
+11,"Hull",0,"Away",11
+11,"Manchester United",3,"Home",16
+11,"Crystal Palace",0,"Away",9
+11,"Southampton",3,"Home",25
+11,"Leicester",0,"Away",9
+11,"West Ham",1,"Home",18
+11,"Aston Villa",1,"Away",11
+11,"QPR",1,"Home",8
+11,"Manchester City",1,"Away",21
+11,"Sunderland",1,"Home",12
+11,"Everton",1,"Away",14
+11,"Tottenham",0,"Home",14
+11,"Stoke",3,"Away",15
+11,"West Bromwich",0,"Home",13
+11,"Newcastle",3,"Away",16
+11,"Swansea",3,"Home",18
+11,"Arsenal",0,"Away",17
+12,"Chelsea",3,"Home",32
+12,"West Bromwich",0,"Away",13
+12,"Everton",3,"Home",17
+12,"West Ham",0,"Away",18
+12,"Leicester",1,"Home",10
+12,"Sunderland",1,"Away",13
+12,"Manchester City",3,"Home",24
+12,"Swansea",0,"Away",18
+12,"Newcastle",3,"Home",19
+12,"QPR",0,"Away",8
+12,"Stoke",0,"Home",15
+12,"Burnley",3,"Away",10
+12,"Arsenal",0,"Home",17
+12,"Manchester United",3,"Away",19
+12,"Crystal Palace",3,"Home",12
+12,"Liverpool",0,"Away",14
+12,"Hull",0,"Home",11
+12,"Tottenham",3,"Away",17
+12,"Aston Villa",1,"Home",12
+12,"Southampton",1,"Away",26
+13,"West Bromwich",0,"Home",13
+13,"Arsenal",3,"Away",20
+13,"Burnley",1,"Home",11
+13,"Aston Villa",1,"Away",13
+13,"Liverpool",3,"Home",17
+13,"Stoke",0,"Away",15
+13,"Manchester United",3,"Home",22
+13,"Hull",0,"Away",11
+13,"QPR",3,"Home",11
+13,"Leicester",0,"Away",10
+13,"Swansea",1,"Home",19
+13,"Crystal Palace",1,"Away",13
+13,"West Ham",3,"Home",21
+13,"Newcastle",0,"Away",19
+13,"Sunderland",1,"Home",14
+13,"Chelsea",1,"Away",33
+13,"Southampton",0,"Home",26
+13,"Manchester City",3,"Away",27
+13,"Tottenham",3,"Home",20
+13,"Everton",0,"Away",17
+14,"Burnley",1,"Home",12
+14,"Newcastle",1,"Away",20
+14,"Leicester",0,"Home",10
+14,"Liverpool",3,"Away",20
+14,"Manchester United",3,"Home",25
+14,"Stoke",0,"Away",15
+14,"Swansea",3,"Home",22
+14,"QPR",0,"Away",11
+14,"Crystal Palace",0,"Home",13
+14,"Aston Villa",3,"Away",16
+14,"West Bromwich",0,"Home",13
+14,"West Ham",3,"Away",24
+14,"Arsenal",3,"Home",23
+14,"Southampton",0,"Away",26
+14,"Chelsea",3,"Home",36
+14,"Tottenham",0,"Away",20
+14,"Everton",1,"Home",18
+14,"Hull",1,"Away",12
+14,"Sunderland",0,"Home",14
+14,"Manchester City",3,"Away",30
+15,"Newcastle",3,"Home",23
+15,"Chelsea",0,"Away",36
+15,"Hull",1,"Home",13
+15,"West Bromwich",1,"Away",14
+15,"Liverpool",1,"Home",21
+15,"Sunderland",1,"Away",15
+15,"QPR",3,"Home",14
+15,"Burnley",0,"Away",12
+15,"Stoke",3,"Home",18
+15,"Arsenal",0,"Away",23
+15,"Tottenham",1,"Home",21
+15,"Crystal Palace",1,"Away",14
+15,"Manchester City",3,"Home",33
+15,"Everton",0,"Away",18
+15,"West Ham",3,"Home",27
+15,"Swansea",0,"Away",22
+15,"Aston Villa",3,"Home",19
+15,"Leicester",0,"Away",10
+15,"Southampton",0,"Home",26
+15,"Manchester United",3,"Away",28
+16,"Burnley",3,"Home",15
+16,"Southampton",0,"Away",26
+16,"Chelsea",3,"Home",39
+16,"Hull",0,"Away",13
+16,"Crystal Palace",1,"Home",15
+16,"Stoke",1,"Away",19
+16,"Leicester",0,"Home",10
+16,"Manchester City",3,"Away",36
+16,"Sunderland",1,"Home",16
+16,"West Ham",1,"Away",28
+16,"West Bromwich",3,"Home",17
+16,"Aston Villa",0,"Away",19
+16,"Arsenal",3,"Home",26
+16,"Newcastle",0,"Away",23
+16,"Manchester United",3,"Home",31
+16,"Liverpool",0,"Away",21
+16,"Swansea",0,"Home",22
+16,"Tottenham",3,"Away",24
+16,"Everton",3,"Home",21
+16,"QPR",0,"Away",14
+17,"Manchester City",3,"Home",39
+17,"Crystal Palace",0,"Away",15
+17,"Aston Villa",1,"Home",20
+17,"Manchester United",1,"Away",32
+17,"Hull",0,"Home",13
+17,"Swansea",3,"Away",25
+17,"QPR",3,"Home",17
+17,"West Bromwich",0,"Away",17
+17,"Southampton",3,"Home",29
+17,"Everton",0,"Away",21
+17,"Tottenham",3,"Home",27
+17,"Burnley",0,"Away",15
+17,"West Ham",3,"Home",31
+17,"Leicester",0,"Away",10
+17,"Newcastle",0,"Home",23
+17,"Sunderland",3,"Away",19
+17,"Liverpool",1,"Home",22
+17,"Arsenal",1,"Away",27
+17,"Stoke",0,"Home",19
+17,"Chelsea",3,"Away",42
+18,"Chelsea",3,"Home",45
+18,"West Ham",0,"Away",31
+18,"Crystal Palace",0,"Home",15
+18,"Southampton",3,"Away",32
+18,"Burnley",0,"Home",15
+18,"Liverpool",3,"Away",25
+18,"Manchester United",3,"Home",35
+18,"Newcastle",0,"Away",23
+18,"Everton",0,"Home",21
+18,"Stoke",3,"Away",22
+18,"Sunderland",0,"Home",19
+18,"Hull",3,"Away",16
+18,"West Bromwich",0,"Home",17
+18,"Manchester City",3,"Away",42
+18,"Leicester",0,"Home",10
+18,"Tottenham",3,"Away",30
+18,"Swansea",3,"Home",28
+18,"Aston Villa",0,"Away",20
+18,"Arsenal",3,"Home",30
+18,"QPR",0,"Away",17
+19,"Tottenham",1,"Home",31
+19,"Manchester United",1,"Away",36
+19,"Southampton",1,"Home",33
+19,"Chelsea",1,"Away",46
+19,"Stoke",3,"Home",25
+19,"West Bromwich",0,"Away",17
+19,"West Ham",0,"Home",31
+19,"Arsenal",3,"Away",33
+19,"Aston Villa",1,"Home",21
+19,"Sunderland",1,"Away",20
+19,"Hull",0,"Home",16
+19,"Leicester",3,"Away",13
+19,"Manchester City",1,"Home",43
+19,"Burnley",1,"Away",16
+19,"QPR",1,"Home",18
+19,"Crystal Palace",1,"Away",16
+19,"Newcastle",3,"Home",26
+19,"Everton",0,"Away",21
+19,"Liverpool",3,"Home",28
+19,"Swansea",0,"Away",28
+20,"Stoke",1,"Home",26
+20,"Manchester United",1,"Away",37
+20,"Hull",3,"Home",19
+20,"Everton",0,"Away",21
+20,"Manchester City",3,"Home",46
+20,"Sunderland",0,"Away",20
+20,"QPR",1,"Home",19
+20,"Swansea",1,"Away",29
+20,"Southampton",3,"Home",36
+20,"Arsenal",0,"Away",33
+20,"West Ham",1,"Home",32
+20,"West Bromwich",1,"Away",18
+20,"Aston Villa",1,"Home",22
+20,"Crystal Palace",1,"Away",17
+20,"Liverpool",1,"Home",29
+20,"Leicester",1,"Away",14
+20,"Newcastle",1,"Home",27
+20,"Burnley",1,"Away",17
+20,"Tottenham",3,"Home",34
+20,"Chelsea",0,"Away",46
+21,"Sunderland",0,"Home",20
+21,"Liverpool",3,"Away",32
+21,"Burnley",3,"Home",20
+21,"QPR",0,"Away",19
+21,"Chelsea",3,"Home",49
+21,"Newcastle",0,"Away",27
+21,"Everton",1,"Home",22
+21,"Manchester City",1,"Away",47
+21,"Leicester",3,"Home",17
+21,"Aston Villa",0,"Away",22
+21,"Swansea",1,"Home",30
+21,"West Ham",1,"Away",33
+21,"West Bromwich",3,"Home",21
+21,"Hull",0,"Away",19
+21,"Crystal Palace",3,"Home",20
+21,"Tottenham",0,"Away",34
+21,"Arsenal",3,"Home",36
+21,"Stoke",0,"Away",26
+21,"Manchester United",0,"Home",37
+21,"Southampton",3,"Away",39
+22,"Aston Villa",0,"Home",22
+22,"Liverpool",3,"Away",35
+22,"Burnley",0,"Home",20
+22,"Crystal Palace",3,"Away",23
+22,"Leicester",0,"Home",17
+22,"Stoke",3,"Away",29
+22,"QPR",0,"Home",19
+22,"Manchester United",3,"Away",40
+22,"Swansea",0,"Home",30
+22,"Chelsea",3,"Away",52
+22,"Tottenham",3,"Home",37
+22,"Sunderland",0,"Away",20
+22,"Newcastle",0,"Home",27
+22,"Southampton",3,"Away",42
+22,"West Ham",3,"Home",36
+22,"Hull",0,"Away",19
+22,"Manchester City",0,"Home",47
+22,"Arsenal",3,"Away",39
+22,"Everton",1,"Home",23
+22,"West Bromwich",1,"Away",22
+23,"Hull",0,"Home",19
+23,"Newcastle",3,"Away",30
+23,"Crystal Palace",0,"Home",23
+23,"Everton",3,"Away",26
+23,"Liverpool",3,"Home",38
+23,"West Ham",0,"Away",36
+23,"Manchester United",3,"Home",43
+23,"Leicester",0,"Away",17
+23,"Stoke",3,"Home",32
+23,"QPR",0,"Away",19
+23,"Sunderland",3,"Home",23
+23,"Burnley",0,"Away",20
+23,"West Bromwich",0,"Home",22
+23,"Tottenham",3,"Away",40
+23,"Chelsea",1,"Home",53
+23,"Manchester City",1,"Away",48
+23,"Arsenal",3,"Home",42
+23,"Aston Villa",0,"Away",22
+23,"Southampton",0,"Home",42
+23,"Swansea",3,"Away",33
+24,"Tottenham",3,"Home",43
+24,"Arsenal",0,"Away",42
+24,"Aston Villa",0,"Home",22
+24,"Chelsea",3,"Away",56
+24,"Leicester",0,"Home",17
+24,"Crystal Palace",3,"Away",26
+24,"Manchester City",1,"Home",49
+24,"Hull",1,"Away",20
+24,"QPR",0,"Home",19
+24,"Southampton",3,"Away",45
+24,"Swansea",1,"Home",34
+24,"Sunderland",1,"Away",24
+24,"Everton",1,"Home",27
+24,"Liverpool",1,"Away",39
+24,"Burnley",1,"Home",21
+24,"West Bromwich",1,"Away",23
+24,"Newcastle",1,"Home",31
+24,"Stoke",1,"Away",33
+24,"West Ham",1,"Home",37
+24,"Manchester United",1,"Away",44
+25,"Arsenal",3,"Home",45
+25,"Leicester",0,"Away",17
+25,"Hull",3,"Home",23
+25,"Aston Villa",0,"Away",22
+25,"Sunderland",0,"Home",24
+25,"QPR",3,"Away",22
+25,"Liverpool",3,"Home",42
+25,"Tottenham",0,"Away",43
+25,"Chelsea",3,"Home",59
+25,"Everton",0,"Away",27
+25,"Manchester United",3,"Home",47
+25,"Burnley",0,"Away",21
+25,"Southampton",1,"Home",46
+25,"West Ham",1,"Away",38
+25,"Stoke",0,"Home",33
+25,"Manchester City",3,"Away",52
+25,"Crystal Palace",1,"Home",27
+25,"Newcastle",1,"Away",32
+25,"West Bromwich",3,"Home",26
+25,"Swansea",0,"Away",34
+26,"Aston Villa",0,"Home",22
+26,"Stoke",3,"Away",36
+26,"Chelsea",1,"Home",60
+26,"Burnley",1,"Away",22
+26,"Crystal Palace",0,"Home",27
+26,"Arsenal",3,"Away",48
+26,"Hull",3,"Home",26
+26,"QPR",0,"Away",22
+26,"Sunderland",1,"Home",25
+26,"West Bromwich",1,"Away",27
+26,"Swansea",3,"Home",37
+26,"Manchester United",0,"Away",47
+26,"Manchester City",3,"Home",55
+26,"Newcastle",0,"Away",32
+26,"Tottenham",1,"Home",44
+26,"West Ham",1,"Away",39
+26,"Everton",1,"Home",28
+26,"Leicester",1,"Away",18
+26,"Southampton",0,"Home",46
+26,"Liverpool",3,"Away",45
+27,"West Ham",0,"Home",39
+27,"Crystal Palace",3,"Away",30
+27,"Burnley",0,"Home",22
+27,"Swansea",3,"Away",40
+27,"Manchester United",3,"Home",50
+27,"Sunderland",0,"Away",25
+27,"Newcastle",3,"Home",35
+27,"Aston Villa",0,"Away",22
+27,"Stoke",3,"Home",39
+27,"Hull",0,"Away",26
+27,"West Bromwich",3,"Home",30
+27,"Southampton",0,"Away",46
+27,"Liverpool",3,"Home",48
+27,"Manchester City",0,"Away",55
+27,"Arsenal",3,"Home",51
+27,"Everton",0,"Away",28
+27,"QPR",0,"Home",22
+27,"Tottenham",3,"Away",47
+27,"Leicester",0,"Home",18
+27,"Chelsea",3,"Away",63
+28,"Aston Villa",3,"Home",25
+28,"West Bromwich",0,"Away",30
+28,"Hull",1,"Home",27
+28,"Sunderland",1,"Away",26
+28,"Southampton",3,"Home",49
+28,"Crystal Palace",0,"Away",30
+28,"Manchester City",3,"Home",58
+28,"Leicester",0,"Away",18
+28,"Newcastle",0,"Home",35
+28,"Manchester United",3,"Away",53
+28,"QPR",0,"Home",22
+28,"Arsenal",3,"Away",54
+28,"Stoke",3,"Home",42
+28,"Everton",0,"Away",28
+28,"Tottenham",3,"Home",50
+28,"Swansea",0,"Away",40
+28,"West Ham",0,"Home",39
+28,"Chelsea",3,"Away",66
+28,"Liverpool",3,"Home",51
+28,"Burnley",0,"Away",22
+29,"Crystal Palace",3,"Home",33
+29,"QPR",0,"Away",22
+29,"Arsenal",3,"Home",57
+29,"West Ham",0,"Away",39
+29,"Leicester",1,"Home",19
+29,"Hull",1,"Away",28
+29,"Sunderland",0,"Home",26
+29,"Aston Villa",3,"Away",28
+29,"West Bromwich",3,"Home",33
+29,"Stoke",0,"Away",42
+29,"Burnley",3,"Home",25
+29,"Manchester City",0,"Away",58
+29,"Chelsea",1,"Home",67
+29,"Southampton",1,"Away",50
+29,"Everton",3,"Home",31
+29,"Newcastle",0,"Away",35
+29,"Manchester United",3,"Home",56
+29,"Tottenham",0,"Away",50
+29,"Swansea",0,"Home",40
+29,"Liverpool",3,"Away",54
+30,"Manchester City",3,"Home",61
+30,"West Bromwich",0,"Away",33
+30,"Aston Villa",0,"Home",28
+30,"Swansea",3,"Away",43
+30,"Newcastle",0,"Home",35
+30,"Arsenal",3,"Away",60
+30,"Southampton",3,"Home",53
+30,"Burnley",0,"Away",25
+30,"Stoke",0,"Home",42
+30,"Crystal Palace",3,"Away",36
+30,"Tottenham",3,"Home",53
+30,"Leicester",0,"Away",19
+30,"West Ham",3,"Home",42
+30,"Sunderland",0,"Away",26
+30,"Liverpool",0,"Home",54
+30,"Manchester United",3,"Away",59
+30,"Hull",0,"Home",28
+30,"Chelsea",3,"Away",70
+30,"QPR",0,"Home",22
+30,"Everton",3,"Away",34
+31,"Arsenal",3,"Home",63
+31,"Liverpool",0,"Away",54
+31,"Everton",3,"Home",37
+31,"Southampton",0,"Away",53
+31,"Leicester",3,"Home",22
+31,"West Ham",0,"Away",42
+31,"Manchester United",3,"Home",62
+31,"Aston Villa",0,"Away",28
+31,"Swansea",3,"Home",46
+31,"Hull",0,"Away",28
+31,"West Bromwich",0,"Home",33
+31,"QPR",3,"Away",25
+31,"Chelsea",3,"Home",73
+31,"Stoke",0,"Away",42
+31,"Burnley",1,"Home",26
+31,"Tottenham",1,"Away",54
+31,"Sunderland",3,"Home",29
+31,"Newcastle",0,"Away",35
+31,"Crystal Palace",3,"Home",39
+31,"Manchester City",0,"Away",61
+32,"Swansea",1,"Home",47
+32,"Everton",1,"Away",38
+32,"Southampton",3,"Home",56
+32,"Hull",0,"Away",28
+32,"Sunderland",0,"Home",29
+32,"Crystal Palace",3,"Away",42
+32,"Tottenham",0,"Home",54
+32,"Aston Villa",3,"Away",31
+32,"West Bromwich",0,"Home",33
+32,"Leicester",3,"Away",25
+32,"West Ham",1,"Home",43
+32,"Stoke",1,"Away",43
+32,"Burnley",0,"Home",26
+32,"Arsenal",3,"Away",66
+32,"QPR",0,"Home",25
+32,"Chelsea",3,"Away",76
+32,"Manchester United",3,"Home",65
+32,"Manchester City",0,"Away",61
+32,"Liverpool",3,"Home",57
+32,"Newcastle",0,"Away",35
+33,"Aston Villa",1,"Home",32
+33,"QPR",1,"Away",26
+33,"Crystal Palace",0,"Home",42
+33,"West Bromwich",3,"Away",36
+33,"Everton",3,"Home",41
+33,"Burnley",0,"Away",26
+33,"Leicester",3,"Home",28
+33,"Swansea",0,"Away",47
+33,"Stoke",3,"Home",46
+33,"Southampton",0,"Away",56
+33,"Chelsea",3,"Home",79
+33,"Manchester United",0,"Away",65
+33,"Manchester City",3,"Home",64
+33,"West Ham",0,"Away",43
+33,"Newcastle",0,"Home",35
+33,"Tottenham",3,"Away",57
+33,"Hull",3,"Home",31
+33,"Liverpool",0,"Away",57
+33,"Arsenal",1,"Home",67
+33,"Sunderland",1,"Away",30
+34,"Southampton",1,"Home",57
+34,"Tottenham",1,"Away",58
+34,"Burnley",0,"Home",26
+34,"Leicester",3,"Away",31
+34,"Crystal Palace",0,"Home",42
+34,"Hull",3,"Away",34
+34,"Newcastle",0,"Home",35
+34,"Swansea",3,"Away",50
+34,"QPR",1,"Home",27
+34,"West Ham",1,"Away",44
+34,"Stoke",1,"Home",47
+34,"Sunderland",1,"Away",31
+34,"West Bromwich",1,"Home",37
+34,"Liverpool",1,"Away",58
+34,"Manchester City",3,"Home",67
+34,"Aston Villa",0,"Away",32
+34,"Everton",3,"Home",44
+34,"Manchester United",0,"Away",65
+34,"Arsenal",1,"Home",68
+34,"Chelsea",1,"Away",80
+35,"Leicester",3,"Home",34
+35,"Newcastle",0,"Away",35
+35,"Aston Villa",3,"Home",35
+35,"Everton",0,"Away",44
+35,"Liverpool",3,"Home",61
+35,"QPR",0,"Away",27
+35,"Sunderland",3,"Home",34
+35,"Southampton",0,"Away",57
+35,"Swansea",3,"Home",53
+35,"Stoke",0,"Away",47
+35,"West Ham",3,"Home",47
+35,"Burnley",0,"Away",26
+35,"Manchester United",0,"Home",65
+35,"West Bromwich",3,"Away",40
+35,"Chelsea",3,"Home",83
+35,"Crystal Palace",0,"Away",42
+35,"Tottenham",0,"Home",58
+35,"Manchester City",3,"Away",70
+35,"Hull",0,"Home",34
+35,"Arsenal",3,"Away",71
+36,"Everton",0,"Home",44
+36,"Sunderland",3,"Away",37
+36,"Aston Villa",3,"Home",38
+36,"West Ham",0,"Away",47
+36,"Hull",0,"Home",34
+36,"Burnley",3,"Away",29
+36,"Leicester",3,"Home",37
+36,"Southampton",0,"Away",57
+36,"Newcastle",1,"Home",36
+36,"West Bromwich",1,"Away",41
+36,"Stoke",3,"Home",50
+36,"Tottenham",0,"Away",58
+36,"Crystal Palace",0,"Home",42
+36,"Manchester United",3,"Away",68
+36,"Manchester City",3,"Home",73
+36,"QPR",0,"Away",27
+36,"Chelsea",1,"Home",84
+36,"Liverpool",1,"Away",62
+36,"Arsenal",0,"Home",71
+36,"Swansea",3,"Away",56
+37,"Southampton",3,"Home",60
+37,"Aston Villa",0,"Away",38
+37,"Burnley",1,"Home",30
+37,"Stoke",1,"Away",51
+37,"QPR",3,"Home",30
+37,"Newcastle",0,"Away",36
+37,"Sunderland",1,"Home",38
+37,"Leicester",1,"Away",38
+37,"Tottenham",3,"Home",61
+37,"Hull",0,"Away",34
+37,"West Ham",0,"Home",47
+37,"Everton",3,"Away",47
+37,"Liverpool",0,"Home",62
+37,"Crystal Palace",3,"Away",45
+37,"Swansea",0,"Home",56
+37,"Manchester City",3,"Away",76
+37,"Manchester United",1,"Home",69
+37,"Arsenal",1,"Away",72
+37,"West Bromwich",3,"Home",44
+37,"Chelsea",0,"Away",84
+38,"Arsenal",3,"Home",75
+38,"West Bromwich",0,"Away",44
+38,"Aston Villa",0,"Home",38
+38,"Burnley",3,"Away",33
+38,"Chelsea",3,"Home",87
+38,"Sunderland",0,"Away",38
+38,"Crystal Palace",3,"Home",48
+38,"Swansea",0,"Away",56
+38,"Everton",0,"Home",47
+38,"Tottenham",3,"Away",64
+38,"Hull",1,"Home",35
+38,"Manchester United",1,"Away",70
+38,"Leicester",3,"Home",41
+38,"QPR",0,"Away",30
+38,"Manchester City",3,"Home",79
+38,"Southampton",0,"Away",60
+38,"Newcastle",3,"Home",39
+38,"West Ham",0,"Away",47
+38,"Stoke",3,"Home",54
+38,"Liverpool",0,"Away",62
