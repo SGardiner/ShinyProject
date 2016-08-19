@@ -1,0 +1,10 @@
+name: ShinyProject
+account: sgardiner
+server: shinyapps.io
+appId: 120871
+bundleId: 535634
+url: https://sgardiner.shinyapps.io/ShinyProject/
+when: 1471572496.55206
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DataProductsProject.R|eng2015.csv|eng2016.csv|EPL2015.csv|EPL2016.csv|EPLclean.R|README.md|standings2015.csv
