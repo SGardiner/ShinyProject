@@ -23,7 +23,7 @@ August 19, 2016
 
 ## Project Overview
 
-For my project, I wrote a Shiny application that showed off data for the English Premier League (Football / Soccer) for the 2015-2016 season.  The season was historic, due to the victory by Leicester City, considered the biggest upset in English soccer history.  
+For my course project, I created a Shiny application showing data for the English Premier League (soccer) for the 2015-2016 season.  The season was historic, due to the victory by Leicester City, considered the biggest upset in English soccer history.  
 
 This application shows the following:
 

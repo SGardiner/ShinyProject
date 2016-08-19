@@ -34,10 +34,11 @@ shinyUI(pageWithSidebar(
                   to show the league standings for that period.  The lowest three
                   teams, shown in light blue, are in the relegation zone to be 
                   demoted to the lower league."),
-                p(" In the sidebar, you can choose Home and Away teams using the drop
+                p("In the sidebar, you can choose Home and Away teams using the drop
                   down boxes, and click Submit to make a prediction of the outcome
                   of a game between the two teams for the chosen week.  The prediction
                   is based on a machine learning algorithm using the results of
-                  the season and recent game performance.  Have fun!")
+                  the season and recent game performance.  Have fun!"),
+                p("GitHub repo for this project is at https://github.com/SGardiner/ShinyProject")
         )
 ))
